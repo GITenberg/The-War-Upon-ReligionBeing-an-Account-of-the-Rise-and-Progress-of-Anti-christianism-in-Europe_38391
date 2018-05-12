@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39438'
     url: http://www.gutenberg.org/2009/agents/39438
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38391#The-War-Upon-ReligionBeing-an-Account-of-the-Rise-and-Progress-of-Anti-christianism-in-Europe
 gutenberg_issued: '2011-12-23'
 gutenberg_type: Text
 identifiers:
